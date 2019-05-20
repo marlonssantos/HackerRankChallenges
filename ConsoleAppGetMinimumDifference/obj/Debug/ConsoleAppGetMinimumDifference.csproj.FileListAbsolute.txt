@@ -1,0 +1,7 @@
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\bin\Debug\ConsoleAppGetMinimumDifference.exe.config
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\bin\Debug\ConsoleAppGetMinimumDifference.exe
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\bin\Debug\ConsoleAppGetMinimumDifference.pdb
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\obj\Debug\ConsoleAppGetMinimumDifference.csprojAssemblyReference.cache
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\obj\Debug\ConsoleAppGetMinimumDifference.csproj.CoreCompileInputs.cache
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\obj\Debug\ConsoleAppGetMinimumDifference.exe
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppGetMinimumDifference\obj\Debug\ConsoleAppGetMinimumDifference.pdb

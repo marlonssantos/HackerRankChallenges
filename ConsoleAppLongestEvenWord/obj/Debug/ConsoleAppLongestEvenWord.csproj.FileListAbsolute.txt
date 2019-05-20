@@ -1,0 +1,7 @@
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\bin\Debug\ConsoleAppLongestEvenWord.exe.config
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\bin\Debug\ConsoleAppLongestEvenWord.exe
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\bin\Debug\ConsoleAppLongestEvenWord.pdb
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.csprojAssemblyReference.cache
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.csproj.CoreCompileInputs.cache
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.exe
+C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.pdb
