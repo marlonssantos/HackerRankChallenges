@@ -8,14 +8,12 @@ namespace ConsoleAppGetMinimumDifference
 {
     public class Result
     {
-        /*
-         * Complete the 'getMinimumDifference' function below.
-         *
-         * The function is expected to return an INTEGER_ARRAY.
-         * The function accepts following parameters:
-         *  1. STRING_ARRAY a
-         *  2. STRING_ARRAY b
-         */
+        // Complete the 'getMinimumDifference' function below.
+        //
+        // The function is expected to return an INTEGER_ARRAY.
+        // The function accepts following parameters:
+        //  1. STRING_ARRAY a
+        //  2. STRING_ARRAY b
 
         public static List<int> getMinimumDifference(List<string> a, List<string> b)
         {
