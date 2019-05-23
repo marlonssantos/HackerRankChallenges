@@ -15,6 +15,8 @@ namespace ConsoleAppLongestEvenWord
             //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
             string sentence = Console.ReadLine();
             string result = Result.longestEvenWord(sentence);
+
+            Console.WriteLine("\n**Output**");
             Console.WriteLine(result);
             Console.ReadLine();
 
