@@ -5,3 +5,9 @@ C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\
 C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.csproj.CoreCompileInputs.cache
 C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.exe
 C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.pdb
+D:\GitHub\HackerRankChallenges\ConsoleAppLongestEvenWord\bin\Debug\ConsoleAppLongestEvenWord.exe.config
+D:\GitHub\HackerRankChallenges\ConsoleAppLongestEvenWord\bin\Debug\ConsoleAppLongestEvenWord.exe
+D:\GitHub\HackerRankChallenges\ConsoleAppLongestEvenWord\bin\Debug\ConsoleAppLongestEvenWord.pdb
+D:\GitHub\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.csproj.CoreCompileInputs.cache
+D:\GitHub\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.exe
+D:\GitHub\HackerRankChallenges\ConsoleAppLongestEvenWord\obj\Debug\ConsoleAppLongestEvenWord.pdb

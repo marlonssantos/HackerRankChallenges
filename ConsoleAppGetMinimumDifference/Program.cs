@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace ConsoleAppGetMinimumDifference
 {
@@ -14,59 +15,49 @@ namespace ConsoleAppGetMinimumDifference
             // For example, for the collections:
             // "a", "jk", "abb", "mn", "abc"
             // "bb", "kj", "bbc", "op", "def"
+            // Expected Input:
+            //  5
+            //  a
+            //  jk
+            //  abb
+            //  mn
+            //  abc
+            //  5
+            //  bb
+            //  kj
+            //  bbc
+            //  op
+            //  def
             // The output will be:
             // -1, 0, 1, 2, 3
 
 
-            List<string> aCollection = new List<string>()
+            int aCount = Convert.ToInt32(Console.ReadLine().Trim());
+
+            List<string> a = new List<string>();
+
+            for (int i = 0; i < aCount; i++)
             {
-                "a", "jk", "abb", "mn", "abc"
-            };
+                string aItem = Console.ReadLine();
+                a.Add(aItem);
+            }
 
-            List<string> bCollection = new List<string>()
+            int bCount = Convert.ToInt32(Console.ReadLine().Trim());
+
+            List<string> b = new List<string>();
+
+            for (int i = 0; i < bCount; i++)
             {
-                "bb", "kj", "bbc", "op", "def"
-            };
+                string bItem = Console.ReadLine();
+                b.Add(bItem);
+            }
 
-            List<int> result = Result.getMinimumDifference(aCollection, bCollection);
+            List<int> result = Result.getMinimumDifference(a, b);
 
-            Console.WriteLine(string.Join("\n", result));
+            Console.WriteLine("\n**Output**");
+            Console.WriteLine(String.Join("\n", result));
             Console.ReadLine();
 
-
-
-
-
-            
-
-            //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
-
-            //int aCount = Convert.ToInt32(Console.ReadLine().Trim());
-
-            //List<string> a = new List<string>();
-
-            //for (int i = 0; i < aCount; i++)
-            //{
-            //    string aItem = Console.ReadLine();
-            //    a.Add(aItem);
-            //}
-
-            //int bCount = Convert.ToInt32(Console.ReadLine().Trim());
-
-            //List<string> b = new List<string>();
-
-            //for (int i = 0; i < bCount; i++)
-            //{
-            //    string bItem = Console.ReadLine();
-            //    b.Add(bItem);
-            //}
-
-            //List<int> result = Result.getMinimumDifference(a, b);
-
-            //textWriter.WriteLine(String.Join("\n", result));
-
-            //textWriter.Flush();
-            //textWriter.Close();
         }
     }
 }

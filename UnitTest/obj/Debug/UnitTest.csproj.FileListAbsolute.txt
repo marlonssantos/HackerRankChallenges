@@ -26,3 +26,31 @@ C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\
 C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppGetMinimumDifference.exe
 C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppGetMinimumDifference.pdb
 C:\Users\Santos-PC\Documents\Visual Studio 2017\MyProjects\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppGetMinimumDifference.exe.config
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\UnitTest.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\UnitTest.pdb
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppGetMinimumDifference.exe
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppLongestEvenWord.exe
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.abstractions.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.assert.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.core.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.execution.desktop.dll
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppGetMinimumDifference.pdb
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppGetMinimumDifference.exe.config
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppLongestEvenWord.pdb
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\ConsoleAppLongestEvenWord.exe.config
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.abstractions.xml
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.assert.xml
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.core.xml
+D:\GitHub\HackerRankChallenges\UnitTest\bin\Debug\xunit.execution.desktop.xml
+D:\GitHub\HackerRankChallenges\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\GitHub\HackerRankChallenges\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\GitHub\HackerRankChallenges\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\GitHub\HackerRankChallenges\UnitTest\obj\Debug\UnitTest.dll
+D:\GitHub\HackerRankChallenges\UnitTest\obj\Debug\UnitTest.pdb
